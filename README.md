@@ -27,6 +27,5 @@ This repository contains Kafka connector configuration files which enables real 
 - Deploy the connector configuration files in your Kafka Cluster. This will enable real time data synchronization from MongoDB to AWS S3 Buckets.
 
 **Note**: The above connector push the data to the S3 bucket at a regular interval of time, these configuration can be modified based on the use case. Refer to the following documentation for more details.
-
     - [MongoDB Souce Configuration](https://www.mongodb.com/docs/kafka-connector/current/source-connector/configuration-properties/)
     - [AWS S3 Sink Configuration](https://docs.confluent.io/kafka-connectors/s3-sink/current/configuration_options.html)
