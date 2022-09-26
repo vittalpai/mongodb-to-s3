@@ -6,7 +6,7 @@ This repository contains Kafka connector configuration files which enables real 
 
 - Kafka Cluster
 - MongoDB Instance
-- AWS S3 Buckets
+- AWS S3 Bucket
 
 ## Setup 
 
